@@ -10,7 +10,7 @@ If your token is listed here, your data has been compromised by a third-party re
 
 ## 🔍 The Investigation: "Plain-Text Negligence"
 
-During a routine infrastructure audit, RRHosting identified a surge in high-risk activity originating from specific container environments. Our investigation revealed that several users (primarily within the Arabic-speaking botting community) were abusing our resources to host "Bot Generation" scripts for unsuspecting customers.
+During a routine infrastructure audit, RRHosting identified a surge in high-risk activity originating from specific container environments.
 
 ### The Technical Failure:
 
